@@ -1,0 +1,59 @@
+monitor
+carregador
+cadeira
+gabinete
+mouse
+mouse pad
+teclado
+fone
+headset
+headfone
+web cam
+caixa de som
+notebook
+computador
+tablet
+celular
+smartphone
+impressora
+scanner
+antivirus
+antivírus
+driver de vídeo
+driver de video
+driver de áudio
+driver de audio
+windows
+linux
+lento
+quente
+travando
+não imprimindo
+imprimindo
+não movendo
+movendo
+não digitando
+digitando
+instalar
+desinstalar
+desligar
+comprar
+ligar
+configurar
+consertar
+ajudar
+montar
+queimada
+tela
+driver
+display
+usb
+porta usb
+entrada
+touchpad
+touchscreen
+video
+camera
+câmera
+problema
+problemas
